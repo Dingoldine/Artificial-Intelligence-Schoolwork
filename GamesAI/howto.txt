@@ -1,0 +1,3 @@
+How to run: 
+
+java -cp Agent_Y Main init verbose < pipe | java -cp Agent_X Main > pipe
